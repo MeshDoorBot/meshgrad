@@ -1,0 +1,40 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "layers": [
+    {
+      "name": "Date",
+      "type": "text",
+      "font": "NeueHaasDisplayXXThin",
+      "fontSize": 64,
+      "color": "#ffffff",
+      "x": 540,
+      "y": 323,
+      "align": "center",
+      "opacity": 1
+    },
+    {
+      "name": "Show Data",
+      "type": "text",
+      "font": "NeueHaasDisplayThin",
+      "fontSize": 48,
+      "color": "#cccccc",
+      "x": 42,
+      "y": 509,
+      "maxWidth": 668,
+      "opacity": 1
+    },
+    {
+      "name": "Overlay",
+      "type": "image",
+      "src": "overlay.png",
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 1920,
+      "opacity": 1
+    }
+  ]
+}
